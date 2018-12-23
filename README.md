@@ -1,4 +1,4 @@
-# corretor_ortografico - Trabalho de Oficina de Computação
+# Verificador Ortografico - Trabalho de Oficina de Computação
 ## Especificação
 
 Este projeto visa implementar um verificador ortográfico, que recebe um texto como entrada e produz o mesmo texto na saída, com as palavras potencialmente incorretas indicadas entre colchetes ([...]). Uma palavra é considerada potencialmente incorreta se não for encontrada em um arquivo de dicionário.
